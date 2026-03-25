@@ -61,7 +61,7 @@ To transform satellite data into a **defensible analytical instrument**, the pip
 
 1. Fork or clone this repository.  
 2. Open `app.js` in the [Google Earth Engine Code Editor](https://code.earthengine.google.com/).  
-3. Replace `Insert_Your_GEE_App_Link_Here` with your deployed app link.  
+3. Replace `https://gee-xplore-491304.projects.earthengine.app/view/india-emissions-analytics` with your deployed app link.  
 4. Click **Run**, then use the dropdowns and date selectors to explore urban pollution trends across Indian cities.
 
 ---
