@@ -14,7 +14,7 @@ The project originated from localized concerns over dust, smoke, and respiratory
 
 It compares current atmospheric conditions to the **2020 COVID-19 lockdown baseline (“The Anthropause”)**, which represents an unprecedented clean-air scenario.
 
-👉 **[View the Live Interactive App Here](Ihttps://gee-xplore-491304.projects.earthengine.app/view/india-emissions-analytics)**
+👉 [View the Live Interactive App Here](https://gee-xplore-491304.projects.earthengine.app/view/india-emissions-analytics)
 
 ![Dashboard Preview](assets/dashboard_preview.jpg)  
 
